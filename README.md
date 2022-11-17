@@ -7,7 +7,7 @@
 ### :man_technologist: About Me
 
 - 💻 &nbsp; I'm a Full-Stack Developer
-- 🎓 &nbsp; I was studied **Computer Engineering**.
+- 🎓 &nbsp; I have studied **Computer Engineering**.
 - 🤔 &nbsp; If you seen my github, You will seen i experienced with **Typescript**, **Javascript** or etc.
 - 🤯 &nbsp; Actually, my expert skill is Hardware Programming
 <!-- - 💼 &nbsp; I always like to learn and explore everything about **Web Development** technologies.
